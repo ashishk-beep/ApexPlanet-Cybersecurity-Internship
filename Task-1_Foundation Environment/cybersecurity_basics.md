@@ -138,4 +138,3 @@ Examples:
 - Improves defensive security planning
 - Assists in threat modeling and risk assessment
 - Enables better incident response preparation
-![Uploading image.png…]()
